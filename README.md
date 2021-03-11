@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**BiancaCarneiro/BiancaCarneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<head>
+<h1> Hi there, I am Bianca Carneiro 👋</h1>
+<head>
+  
+<body>
+  <p>
+    <i>Computer Engeneering student at UFPE<br>
+      She/Her (Ela/Dela)</i>
+   </p>
+<p><b>🧠Habilities:<b> Python, C, Haskell, Verilog, C#, Assembly x86, ARMv8 and arduino.</p>
+<p><b>💬Finding me:<b><br>
+    <a href="https://www.linkedin.com/in/bianca-carneiro-da-cunha-77222b191/"> &emsp;Linkedin</a><br>
+    <a href="https://www.tinkercad.com/users/ktm1UhjdPZW-bianca-carneiro-da-cunha"> &emsp;Tinkerdad</a><br>
+    <a href="http://lattes.cnpq.br/7849446439578091"> &emsp;Lattes</a><br>
+</p>
+<p>✉️E-mail:<br><i>
+      &emsp;bianca.ccnf@hotmail.com<br>
+      &emsp;bianca.ccnf@gmail.com<br>
+      &emsp;bccnf@cin.ufpe.br</i>
+</p>
+<body>
