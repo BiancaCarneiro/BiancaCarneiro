@@ -4,7 +4,7 @@
   
 <body>
   <p>
-    <i>Computer Engeneering student at UFPE<br>
+    <i>Computer Engineering student at UFPE<br>
       She/Her (Ela/Dela)</i>
    </p>
 <p><b>🧠Habilities:<b> Python, C, Haskell, Verilog, C#, Assembly x86, ARMv8 and Arduino.</p>
