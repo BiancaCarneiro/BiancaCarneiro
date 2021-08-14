@@ -15,8 +15,8 @@
     <a href="http://lattes.cnpq.br/7849446439578091"> &emsp;Lattes</a><br>
 </p>
 <p>✉️E-mail:<br><i>
-      &emsp;bianca.ccnf@hotmail.com<br>
-      &emsp;bianca.ccnf@gmail.com<br>
-      &emsp;bccnf@cin.ufpe.br</i>
+      <a href="mailto:bianca.ccnf@gmail.com">bianca.ccnf@gmail.com</a>
+      <a href="mailto:bianca.ccnf@hotmail.com">bianca.ccnf@hotmail.com</a>
+      <a href="mailto:bccnf@cin.ufpe.br">bccnf@cin.ufpe.br</a>
 </p>
 <body>
