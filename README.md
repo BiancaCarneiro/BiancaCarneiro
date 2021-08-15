@@ -14,7 +14,7 @@
     &emsp;<a href="https://www.tinkercad.com/users/ktm1UhjdPZW-bianca-carneiro-da-cunha">Tinkercad</a><br>
     &emsp;<a href="http://lattes.cnpq.br/7849446439578091">Lattes</a><br>
 </p>
-<p><b>✉️E-mail:</b><br><i>
+<p><b>✉️E-mail:</b><br>
       &emsp;<a href="mailto:bianca.ccnf@gmail.com">bianca.ccnf@gmail.com</a><br>
       &emsp;<a href="mailto:bianca.ccnf@hotmail.com">bianca.ccnf@hotmail.com</a><br>
       &emsp;<a href="mailto:bccnf@cin.ufpe.br">bccnf@cin.ufpe.br</a>
