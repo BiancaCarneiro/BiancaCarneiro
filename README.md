@@ -1,6 +1,6 @@
-<head>
+<header>
 <h1> Hi there, I am Bianca Carneiro 👋</h1>
-<head>
+</header>
   
 <body>
   <p>
@@ -19,4 +19,4 @@
       &emsp;<a href="mailto:bianca.ccnf@hotmail.com">bianca.ccnf@hotmail.com</a><br>
       &emsp;<a href="mailto:bccnf@cin.ufpe.br">bccnf@cin.ufpe.br</a>
 </p>
-<body>
+</body>
