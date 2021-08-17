@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Portifolio</title>
     <style>
         .titles{
             font-family: 'Courier New', Courier, monospace;
