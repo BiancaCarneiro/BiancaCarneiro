@@ -4,7 +4,7 @@
   
 <body>
   <p>
-    <img alt="Bianca Carneiro's top languages" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCarneiro&theme=calm&layout=compact&count_private=true&langs_count=8&exclude_repo=Individual-SnakeWorld"/>
+    <img alt="Bianca Carneiro's top languages" width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCarneiro&theme=calm&layout=compact&count_private=true&langs_count=8&exclude_repo=Individual-SnakeWorld"/>
     <i>Computer Engineering student at UFPE<br>
       She/Her (Ela/Dela)</i>
    </p>
