@@ -20,4 +20,5 @@
       &emsp;<a href="mailto:bianca.ccnf@hotmail.com">bianca.ccnf@hotmail.com</a><br>
       &emsp;<a href="mailto:bccnf@cin.ufpe.br">bccnf@cin.ufpe.br</a>
 </p>
+  <img alt="Bianca Carneiro's github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=BiancaCarneiro&show_icons=true&theme=calm&count_private=true&include_all_commits=true" />
 </body>
