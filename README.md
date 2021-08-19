@@ -13,7 +13,7 @@
     &emsp;<a href="https://www.linkedin.com/in/bianca-carneiro-da-cunha-77222b191/">Linkedin</a><br>
     &emsp;<a href="https://leetcode.com/bccnf/">LeetCode</a><br>
     &emsp;<a href="https://www.tinkercad.com/users/ktm1UhjdPZW-bianca-carneiro-da-cunha">Tinkercad</a><br>
-  <img alt="Bianca Carneiro's github stats" align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=BiancaCarneiro&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img alt="Bianca Carneiro's github stats" align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=BiancaCarneiro&hide=issues,prs&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
     &emsp;<a href="http://lattes.cnpq.br/7849446439578091">Lattes</a><br>
 </p>
 <p><b>✉️E-mail:</b><br>
