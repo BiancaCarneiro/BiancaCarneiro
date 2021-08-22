@@ -8,7 +8,7 @@
     <i>Computer Engineering student at UFPE<br>
       She/Her (Ela/Dela)</i>
    </p>
-<p><b>🧠Skills:</b> Python, C, Haskell, Verilog, C#, Assembly x86, ARMv8 and Arduino.</p>
+<p><b>🧠Skills:</b> Python, C, Haskell, Verilog, C#, Assembly x86, ARMv8 and HTML/CSS.</p>
 <p><b>💬Where you can find me:</b><br>
     &emsp;<a href="https://www.linkedin.com/in/bianca-carneiro-da-cunha-77222b191/">Linkedin</a><br>
     &emsp;<a href="https://leetcode.com/bccnf/">LeetCode</a><br>
