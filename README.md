@@ -22,3 +22,7 @@
       &emsp;<a href="mailto:bccnf@cin.ufpe.br">bccnf@cin.ufpe.br</a>
 </p>
 </body>
+
+[![Bianca's github activity graph](https://activity-graph.herokuapp.com/graph?username=BiancaCarneiro&bg_color=1a1b27&color=628fda&line=39bdaf&point=aa83d8&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
