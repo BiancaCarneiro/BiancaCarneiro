@@ -4,7 +4,6 @@
   
 <body>
   <p>
-    <img alt="Bianca Carneiro's top languages" width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCarneiro&theme=tokyonight&layout=compact&count_private=true&langs_count=8&exclude_repo=Individual-SnakeWorld"/>
     <i>Computer Engineering student at UFPE<br>
       She/Her (Ela/Dela)</i>
    </p>
@@ -13,7 +12,6 @@
     &emsp;<a href="https://www.linkedin.com/in/bianca-carneiro-da-cunha-77222b191/">Linkedin</a><br>
     &emsp;<a href="https://leetcode.com/bccnf/">LeetCode</a><br>
     &emsp;<a href="https://www.tinkercad.com/users/ktm1UhjdPZW-bianca-carneiro-da-cunha">Tinkercad</a><br>
-  <img alt="Bianca Carneiro's github stats" align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=BiancaCarneiro&hide=issues,prs&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
     &emsp;<a href="http://lattes.cnpq.br/7849446439578091">Lattes</a><br>
 </p>
 <p><b>✉️E-mail:</b><br>
@@ -22,7 +20,9 @@
       &emsp;<a href="mailto:bccnf@cin.ufpe.br">bccnf@cin.ufpe.br</a>
 </p>
 </body>
-
+<img alt="Bianca Carneiro's top languages" width="37%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCarneiro&theme=tokyonight&layout=compact&count_private=true&langs_count=8&exclude_repo=Individual-SnakeWorld"/>
+ <img alt="Bianca Carneiro's github stats" align="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=BiancaCarneiro&hide=issues,prs&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+ 
 [![Bianca's github activity graph](https://activity-graph.herokuapp.com/graph?username=BiancaCarneiro&bg_color=1a1b27&color=628fda&line=39bdaf&point=aa83d8&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
