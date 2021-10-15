@@ -7,7 +7,7 @@
     <i>Computer Engineering student at UFPE<br>
       She/Her (Ela/Dela)</i>
    </p> 
-<p><b>🧠Skills:</b> Python, C, PL/SQL, Haskell, C#, Assembly x86, ARMv8 and HTML/CSS.</p>
+<p><b>🧠Skills:</b> Python, C, PL/SQL, Haskell, C#, Assembly x86 and ARMv8 and HTML/CSS.</p>
   
 <p><b>💬Where you can find me:</b><br>
     <a href = "mailto: bianca.ccnf@gmail.com" align = "left">
