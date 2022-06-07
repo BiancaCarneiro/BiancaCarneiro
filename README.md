@@ -21,3 +21,4 @@
 <img alt="Bianca Carneiro's github stats" align="left" width="61%" src="https://github-readme-stats.vercel.app/api?username=BiancaCarneiro&hide=issues,prs&show_icons=true&theme=tokyonight&count_private=true"/>
 </body>
 
+![Snake animation](https://github.com/BiancaCarneiro/BiancaCarneiro/blob/output/github-contribution-grid-snake.svg)
