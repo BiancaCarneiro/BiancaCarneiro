@@ -12,7 +12,7 @@
   <img src = "https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
-<img alt="Bianca Carneiro's top languages" align="left" width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCarneiro&theme=tokyonight&layout=compact&count_private=true&langs_count=8&exclude_repo=Individual-SnakeWorld"/>
+<img alt="Bianca Carneiro's top languages" align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCarneiro&theme=tokyonight&layout=compact&count_private=true&langs_count=8&exclude_repo=Individual-SnakeWorld"/>
 <img alt="Bianca Carneiro's github stats" align="left" width="61.2%" src="https://github-readme-stats.vercel.app/api?username=BiancaCarneiro&hide=issues,prs&show_icons=true&theme=tokyonight&count_private=true"/>
 
 ![Snake animation](https://github.com/BiancaCarneiro/BiancaCarneiro/blob/output/github-contribution-grid-snake.svg)
