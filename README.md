@@ -10,9 +10,10 @@
 
 - 📫 Reach me at **bianca.ccnf@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Follow me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bianca-carneiro-da-cunha-77222b191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bianca carneiro da cunha" height="30" width="40" /></a>
+<a href="https://huggingface.co/bccnf" target="blank"><img align="center" src="https://github.com/BiancaCarneiro/BiancaCarneiro/blob/main/huggingface_logo.png?raw=true" alt="bianca carneiro da cunha" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
