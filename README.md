@@ -4,8 +4,6 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working at **VTEXLab**
-
 - 💬 I'm 22 and very passionate about learning
 
 - 📫 Reach me at **bianca.ccnf@gmail.com**
