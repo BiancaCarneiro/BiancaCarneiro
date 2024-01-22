@@ -6,7 +6,7 @@
 
 - Software Engineer Intern @ Uber
 
-- 💬 I'm 22 and very passionate about learning
+- 💬 I'm 23 and very passionate about learning
 
 - 📫 Reach me at **bianca.ccnf@gmail.com**
 
