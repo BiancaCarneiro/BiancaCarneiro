@@ -25,7 +25,4 @@
 
 <img alt="Bianca Carneiro's top languages" align="left" width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCarneiro&layout=compact&langs_count=7&theme=tokyonight&hide=jupyter%20notebook,html"/>
 
-<img alt="Snake animation" align="left" src="https://github.com/BiancaCarneiro/BiancaCarneiro/blob/output/github-contribution-grid-snake.svg"/>
-
-
 
