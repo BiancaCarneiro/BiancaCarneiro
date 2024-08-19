@@ -4,7 +4,7 @@
 
 <h3 align="left">About me:</h3>
 
-- Software Engineer Intern @ Uber
+- Software Engineer I @ Uber
 
 - 💬 I'm 23 and very passionate about learning
 
