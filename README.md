@@ -6,7 +6,7 @@
 
 - Software Engineer I @ Uber
 
-- 💬 I'm 23 and very passionate about learning
+- 💬 I'm 24 and very passionate about learning
 
 - 📫 Reach me at **bianca.ccnf@gmail.com**
 
