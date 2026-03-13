@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bianca Carneiro 👋</h1>
-<h3 align="center">Software Engineer @ Uber</h3>
+<h3 align="center">Software Engineer II @ Uber</h3>
 
 
 <h3 align="left">About me:</h3>
